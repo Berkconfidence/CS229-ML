@@ -1,2 +1,4 @@
 numpy
 matplotlib
+spicy
+scikit-learn
