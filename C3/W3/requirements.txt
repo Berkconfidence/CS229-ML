@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+ipywidgets
+ipympl
+tensorflow
+statsmodels
+gymnasium
+imageio
+pyvirtualdisplay
+gymnasium[box2d]
